@@ -1,0 +1,24 @@
+{
+  "name": "deepcloneobject",
+  "version": "1.0.0",
+  "description": "lib for deep cloning objects in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octav47/deepcloneobject.git"
+  },
+  "keywords": [
+    "deep",
+    "clone",
+    "object"
+  ],
+  "author": "Kir Tribunsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octav47/deepcloneobject/issues"
+  },
+  "homepage": "https://github.com/octav47/deepcloneobject#readme"
+}
